@@ -18,7 +18,7 @@
 
 
 #### Leeme
-- Para ejecutar el sistema se requiere docker-compose.
+- Para ejecutar el sistema se requiere docker-compose (docker-compose up --build)
 - Cuando ya se terminen de ejecutar los contenedores se recomienda esperar 30sg para que Node pueda esperar la creacion dela base de datos y la carga de esta misma
 
 
